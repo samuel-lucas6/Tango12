@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>Samuel Lucas</Authors>
+    <Company>Samuel Lucas</Company>
+    <Description>A stream cipher based on BLAKE2b.</Description>
+    <Copyright>Copyright(C) 2021 Samuel Lucas</Copyright>
+    <PackageLicenseExpression>GPLv3</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/samuel-lucas6/Tango12</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/samuel-lucas6/Tango12</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sodium.Core" Version="1.2.3" />
+  </ItemGroup>
+
+</Project>
