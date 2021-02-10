@@ -27,7 +27,7 @@ namespace Tango12
         /// <summary>Encrypts a message using Tango12d.</summary>
         /// <param name="message">The message to encrypt.</param>
         /// <param name="key">The 64 byte key.</param>
-        /// <remarks>Never reuse a key with the same message.</remarks>
+        /// <remarks>Never reuse a key.</remarks>
         /// <returns>The ciphertext.</returns>
         public static byte[] Encrypt(byte[] message, byte[] key)
         {
