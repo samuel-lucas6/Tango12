@@ -5,10 +5,11 @@
     <Authors>Samuel Lucas</Authors>
     <Company>Samuel Lucas</Company>
     <Description>A stream cipher based on BLAKE2b.</Description>
-    <Copyright>Copyright(C) 2021 Samuel Lucas</Copyright>
-    <PackageLicenseExpression>GPLv3</PackageLicenseExpression>
+    <Copyright>Copyright (c) 2021 Samuel Lucas</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/samuel-lucas6/Tango12</PackageProjectUrl>
     <RepositoryUrl>https://github.com/samuel-lucas6/Tango12</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

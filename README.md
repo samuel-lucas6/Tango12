@@ -1,4 +1,4 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/samuel-lucas6/Geralt/blob/main/LICENSE)
 # Tango12
 A stream cipher based on BLAKE2b. There are two modes:
 
@@ -137,4 +137,3 @@ internal static byte[] Xor(byte[] message, byte[] keystream)
 counter = Utilities.Increment(counter);
 ```
 6. This continues until the end of the message is reached.
-
