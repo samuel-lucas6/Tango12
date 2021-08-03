@@ -1,4 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/samuel-lucas6/Tango12/blob/main/LICENSE)
+[![CodeQL](https://github.com/samuel-lucas6/Tango12/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/samuel-lucas6/Tango12/actions)
+
 # Tango12
 A stream cipher based on BLAKE2b. There are two modes:
 
